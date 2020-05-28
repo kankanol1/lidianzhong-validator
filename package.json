@@ -1,0 +1,14 @@
+{
+  "name": "lidianzhong-validator",
+  "version": "1.0.1",
+  "description": "validator email english",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "author": "kankan <wombat@npmjs.com>",
+  "license": "ISC"
+}
