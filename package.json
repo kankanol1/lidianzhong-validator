@@ -1,6 +1,6 @@
 {
   "name": "lidianzhong-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "validator email english",
   "main": "index.js",
   "scripts": {

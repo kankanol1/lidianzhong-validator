@@ -2,5 +2,9 @@
 
 ## npm install lidianzhong-validator
 
-```import validator from 
+```
+const Validator = require("lidianzhong-validator);
+
+console.log(Validator.isEmail("kankan@qq.com"));//true
+
 ```
