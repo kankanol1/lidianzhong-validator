@@ -1,6 +1,3 @@
-// https://segmentfault.com/a/1190000014800794?utm_source=channel-hottest
-//https://sfantasy.gitbooks.io/node-in-action/content/zh/npm-package/validator.html
-
 var assert = require('assert');
 var validator = require('../lib');
 

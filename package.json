@@ -4,11 +4,18 @@
   "description": "validator email english",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "validator"
   ],
-  "author": "kankan <wombat@npmjs.com>",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kankanol1/lidianzhong-validator.git"
+  },
+  "author": "kankanol",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
 }
